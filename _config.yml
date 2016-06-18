@@ -38,7 +38,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :FlexCore4
+  username               : "FlexCore4"
 facebook:
   username               :
   app_id                 :
@@ -53,9 +53,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-79505195-1"
 
 # Google AdSense
 google_ad_client         :
