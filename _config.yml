@@ -6,11 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+# locale                   : "en-US"
+locale                   : "ja-JP"
+title                    : "FC4"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Cronos"
+description              : "CNC Motion Controller Flex Core4"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -37,7 +38,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :FlexCore4
 facebook:
   username               :
   app_id                 :
@@ -63,7 +64,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Cronos"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
