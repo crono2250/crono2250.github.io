@@ -171,6 +171,13 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+defaults:
+  # _posts
+  - scope:
+　　　path: ""
+　　　type: posts
+　　values:
+　　read_time: true
 
 # Archives
 #  Type
