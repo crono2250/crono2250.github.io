@@ -12,9 +12,12 @@ related: true
 ![alt]({{ site.url }}{{ site.baseurl }}/images/FC4_All.png)
 
 ## FlexCore4 CNCコントローラシステム
+
 ### Motion Controller
 ほげげ
+
 ### KeyPad
+
 ### Sequencer
 
 
