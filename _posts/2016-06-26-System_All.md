@@ -7,18 +7,20 @@ comments: true
 share: true
 related: true
 ---
-# FlexCore4 システム
+# FlexCore4 CNCコントローラシステム
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/FC4_All.png)
 
-## FlexCore4 CNCコントローラシステム
+## Motion Controller
 
 ### Motion Controller
 ほげげ
 
-### KeyPad
+### てすとん
 
-### Sequencer
+## KeyPad
+
+## Sequencer
 
 
 {% comment %}
