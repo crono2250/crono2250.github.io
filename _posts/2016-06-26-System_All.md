@@ -7,15 +7,15 @@ comments: true
 share: true
 related: true
 ---
-FlexCore4 のシステム全体について解説します。
+# FlexCore4 システム
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/FC4_All.png)
 
-1. FlexCore4 CNCコントローラシステム
-2. Motion Controller
-  # ほげげ
-3. KeyPad
-4. Sequencer
+## FlexCore4 CNCコントローラシステム
+### Motion Controller
+ほげげ
+### KeyPad
+### Sequencer
 
 
 {% comment %}
