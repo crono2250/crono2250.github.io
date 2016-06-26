@@ -29,5 +29,5 @@ FlexCore4 のシステム全体について解説します。
 	| col 2 is      | centered      |   $12 |
 	| zebra stripes | are neat      |    $1 |
 
-	3. TBD
+	3. TBD_
 {% endcomment %}
