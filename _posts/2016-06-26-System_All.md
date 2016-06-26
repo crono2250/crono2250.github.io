@@ -11,7 +11,11 @@ FlexCore4 のシステム全体について解説します。
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/FC4_All.png)
 
-1. 
+1. FlexCore4 CNCコントローラシステム
+　ほげ
+
+2. 
+
 
 {% comment %}
 	2. I/O Port Spec
