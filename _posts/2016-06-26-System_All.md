@@ -12,11 +12,10 @@ FlexCore4 のシステム全体について解説します。
 ![alt]({{ site.url }}{{ site.baseurl }}/images/FC4_All.png)
 
 1. FlexCore4 CNCコントローラシステム
-
-ほげ
-ほげほげ
-
-2. 
+2. Motion Controller
+# ほげげ
+3. KeyPad
+4. Sequencer
 
 
 {% comment %}
