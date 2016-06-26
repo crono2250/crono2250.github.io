@@ -1,5 +1,6 @@
 ---
-layout: single
+//layout: single
+layout: default
 type: posts
 title: FlexCore4全体構成
 read_time: true
