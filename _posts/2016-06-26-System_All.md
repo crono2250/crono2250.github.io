@@ -1,7 +1,7 @@
 ---
 layout: single
 type: posts
-title: FC4全体構成
+title: FlexCore4全体構成
 read_time: true
 comments: true
 share: true
