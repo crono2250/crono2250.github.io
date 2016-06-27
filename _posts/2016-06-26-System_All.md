@@ -42,6 +42,8 @@ related: true
 
     モータだけ動けばよく、I/Oが不要の場合はSEQは必須ではありません。
 
+{% comment %}
+
 ## Motion Controller
 
 ### Motion Controller
@@ -54,7 +56,6 @@ related: true
 ## Sequencer
 
 
-{% comment %}
 	2. I/O Port Spec
 
 	| Pin# | Description | Type  | DIR |   | DIR | Type  | Discription | Pin# |
