@@ -11,11 +11,15 @@ related: true
 ![alt]({{ site.url }}{{ site.baseurl }}/images/FC4_All.png)
 
 # FlexCore4 CNCコントローラシステム
- FlexCore4は、大きくわけて3つのモジュールで構成されています。
+ FlexCore4は、4つの要素で構成されています。
+ Windows上で動作する制御ソフトウェアで全体のコントロールを行います。
 
- - 制御ソフト
+ - 制御ソフトウェア
 
-    
+    FC4の全体を制御するソフトウェアです。
+    動作パラメータの初期設定、Gコードの読み込み、軸のマニュアル操作、I/Oの操作等を行います。
+
+    Windows上で動作し、USB経由でMC,SEQと接続します。
  
  - Motion Controller (MC)
 
